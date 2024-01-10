@@ -3,11 +3,11 @@
   <title>星玮的小屋</title>
   
   <subtitle>欢迎来小屋做客~</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://paopao66666.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://paopao66666.github.io/"/>
   <updated>2024-01-10T06:53:25.330Z</updated>
-  <id>http://example.com/</id>
+  <id>https://paopao66666.github.io/</id>
   
   <author>
     <name>Lixingwei</name>
@@ -18,9 +18,9 @@
   
   <entry>
     <title>我的第一个博客</title>
-    <link href="http://example.com/2024/01/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://example.com/2024/01/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/</id>
-    <published>2024-01-10T07:14:26.944Z</published>
+    <link href="https://paopao66666.github.io/2024/01/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://paopao66666.github.io/2024/01/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/</id>
+    <published>2024-01-10T14:01:51.046Z</published>
     <updated>2024-01-10T06:53:25.330Z</updated>
     
     <content type="html"><![CDATA[<p>这篇博客用于测试，以后有时间在写</p><h4 id="插入图片测试"><a href="#插入图片测试" class="headerlink" title="插入图片测试"></a>插入图片测试</h4><p><img src="/../img/%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87.webp"></p><p><img src="/../img/%E6%A0%87%E7%AD%BE%E5%9B%BE%E7%89%87.webp"></p><h4 id="表格测试"><a href="#表格测试" class="headerlink" title="表格测试"></a>表格测试</h4><table><thead><tr><th>Test</th><th>test1</th><th>测试</th></tr></thead><tbody><tr><td>0</td><td>！@#￥%……&amp;</td><td>*（）——+</td></tr><tr><td>1</td><td></td><td></td></tr><tr><td>2</td><td></td><td></td></tr></tbody></table><blockquote><p>引用名人名句测试</p><p>​                            —–tes</p></blockquote><h4 id="代码块测试"><a href="#代码块测试" class="headerlink" title="代码块测试"></a>代码块测试</h4><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>（“hello world”）</span><br></pre></td></tr></table></figure><h4 id="表情测试"><a href="#表情测试" class="headerlink" title="表情测试"></a>表情测试</h4><p>😂🤣❤😍😒👌😘🤷‍♂️👍😁👏🌹🎉🎂🙌🤦‍♀️🎶😢💖😜💋🤳🐱‍👤🐱‍🏍✨😃👀🐱‍🚀✔🐱‍👓🐱‍🐉🐱‍💻😆🤔🤢🎁ヾ(≧▽≦*)oφ(<em>￣0￣)q(≧▽≦q)ψ(｀∇´)ψq(≧▽≦q)（￣︶￣）↗　<em>^____^</em>[]<del>(￣▽￣)</del></em>&lt;(￣︶￣)↗[GO!]φ(゜▽゜*)♪φ(゜▽゜*)♪O(∩_∩)O(✿◡‿◡)(✿◡‿◡)&#96;(<em>&gt;﹏&lt;</em>)′℃¥£′㎜㏎㏎㏄¤₠㏕㎎㎝″₩$℉°€¢㎡㎞₱₭₭⇤⇧▮▬ㄒㄖㄕㄆㄠㄠ</p><h4 id="链接测试"><a href="#链接测试" class="headerlink" title="链接测试"></a>链接测试</h4><p><a href="https://baidu.com/">百度 </a>  </p>]]></content>
